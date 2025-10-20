@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+
+# Environment variables (keep your secrets safe)
+.env
+
+# Editor settings
+.idea/
+.vscode/
+
+# Temporary files
+tempCodeRunnerFile.py
+
+#for javascripts
+tempCodeRunnerFile.javascript
